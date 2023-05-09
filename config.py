@@ -1,3 +1,3 @@
 def get_api_key():
-    API_KEY = '717a71cb8356a780dd524f367cb32374'
+    API_KEY = 'your_api_key'
     return API_KEY
